@@ -1,0 +1,22 @@
+{
+  "name": "codestrips-app",
+  "version": "1.0.0",
+  "description": "App to allow users to create and save small one-pane comic strips",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StyvenSoft/codestrips-app.git"
+  },
+  "author": "Steveen Echeverri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StyvenSoft/codestrips-app/issues"
+  },
+  "homepage": "https://github.com/StyvenSoft/codestrips-app#readme"
+}
